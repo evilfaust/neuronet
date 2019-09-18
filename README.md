@@ -13,8 +13,9 @@ Markdown | не такой | красивый
 
 
 
-| picasso.jpg | <img src="images/picasso.jpg" alt="picasso" width="150"/><br> | dancing.jpg  | <img src="images/dancing.jpg" alt="dansing" width="150"/><br> |
-| cloud.jpg | <img src="images/cloud.jpg" alt="cloud" width="150"/><br>  | scream.jpg | <img src="images/scream.jpg" alt="scream" width="150"/><br> | 
+| picasso.jpg | ![](images/picasso.jpg) | dancing.jpg  | ![](images/dancing.jpg) |
+| cloud.jpg | ![](images/cloud.jpg)| scream.jpg | ![](images/scream.jpg)|
+
 | emc.jpg | <img src="images/emc.jpg" alt="emc" width="150"/><br> | kon.jpg | <img src="images/kon.jpg" alt="kon" width="150"/><br> | 
 | les.jpg | <img src="images/les.jpg" alt="les" width="150"/><br>  | vangog001.jpg | <img src="images/vangog001.jpg" alt="vangog001" width="150"/><br> | 
 | vangog002.jpg | <img src="images/vangog002.jpg" alt="vangog002.jpg" width="150"/><br> | vangog003.jpg | <img src="images/vangog003.jpg" alt="vangog003.jpg" width="150"/><br>|
