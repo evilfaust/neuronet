@@ -11,7 +11,8 @@ Markdown | не такой | красивый
 *Но выводится* | `так же` | **клево**
 1 | 2 | 3
 
-
+emc.jpg | <img src="images/emc.jpg" alt="emc" width="150"/>|kon.jpg|<img src="images/kon.jpg" alt="kon" width="150"/>
+les.jpg | <img src="images/les.jpg" alt="les" width="150"/>|vangog001.jpg|<img src="images/vangog001.jpg" alt="vangog001" width="150"/> 
 
 | picasso.jpg | ![](images/picasso.jpg) | dancing.jpg  | ![](images/dancing.jpg) |
 | cloud.jpg | ![](images/cloud.jpg)| scream.jpg | ![](images/scream.jpg)|
