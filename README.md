@@ -7,4 +7,5 @@
 
 
 
-![scream](images/scream.jpg =100x)
+![scream](images/scream.jpg =100x100)
+<img src="images/scream.jpg" alt="scream" width="150"/>
