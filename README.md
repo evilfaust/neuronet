@@ -6,6 +6,13 @@
 1. NeuralStyleTransfer
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f1xq2k_hrayXs2Kzvl9GzJdLnIquaNvZ#scrollTo=-QvQwOIYm7SB)
 
+Markdown | не такой | красивый
+--- | --- | ---
+*Но выводится* | `так же` | **клево**
+1 | 2 | 3
+
+
+
 | picasso.jpg | <img src="images/picasso.jpg" alt="picasso" width="150"/><br> | dancing.jpg  | <img src="images/dancing.jpg" alt="dansing" width="150"/><br> |
 | cloud.jpg | <img src="images/cloud.jpg" alt="cloud" width="150"/><br>  | scream.jpg | <img src="images/scream.jpg" alt="scream" width="150"/><br> | 
 | emc.jpg | <img src="images/emc.jpg" alt="emc" width="150"/><br> | kon.jpg | <img src="images/kon.jpg" alt="kon" width="150"/><br> | 
