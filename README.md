@@ -7,4 +7,4 @@
 
 
 
-![scream](images/scream.jpg)
+![scream](images/scream.jpg =100x)
