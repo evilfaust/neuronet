@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
 ## НТИ. Машинное обучение и нейронные сети
 
 0. Открыть нейронную сеть в Google Colab [![Open In colab from GitHub](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evilfaust/NTI_lesson/blob/master/NeuralStyleTransfer_ok.ipynb)
@@ -5,7 +7,16 @@
 1. NeuralStyleTransfer
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f1xq2k_hrayXs2Kzvl9GzJdLnIquaNvZ#scrollTo=-QvQwOIYm7SB)
 
-
+<div class="row">
+  <div class="col-md-3">picasso.jpg<img src="images/picasso.jpg" alt="picasso" width="150"/><br>
+</div>  
+  <div class="col-md-3">dancing.jpg<img src="images/dancing.jpg" alt="dansing" width="150"/><br>
+</div> 
+  <div class="col-md-3">cloud.jpg<img src="images/cloud.jpg" alt="cloud" width="150"/><br>
+</div> 
+  <div class="col-md-3">scream.jpg<img src="images/scream.jpg" alt="scream" width="150"/><br>
+</div> 
+</div>
 
 picasso.jpg<img src="images/picasso.jpg" alt="picasso" width="150"/><br>
 dancing.jpg<img src="images/dancing.jpg" alt="dansing" width="150"/><br>
