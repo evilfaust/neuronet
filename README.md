@@ -3,7 +3,7 @@
 
 Открыть нейронную сеть в Google Colab [![Open In colab from GitHub](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evilfaust/NTI_lesson/blob/master/NeuralStyleTransfer_ok.ipynb)
 
-<table style="margin: auto;">
+<table>
   <tr>
     <th>picasso.jpg</th>
     <th><img src="images/picasso.jpg" alt="picasso" width="150"/></th>
