@@ -1,7 +1,7 @@
 
-## НТИ. Машинное обучение и нейронные сети
+## 1. НТИ. Машинное обучение и нейронные сети
 
-Открыть нейронную сеть в Google Colab [![Open In colab from GitHub](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evilfaust/NTI_lesson/blob/master/NeuralStyleTransfer_ok.ipynb)
+Открыть нейронную сеть в Google Colab [![Open In colab from GitHub](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evilfaust/neuronet/blob/master/NeuralStyleTransfer_ok.ipynb)
 
 <table>
   <tr>
@@ -54,3 +54,5 @@
   </tr>
 </table>
 
+## Распознование объектов на изображении. Mask_R_CNN
+Открыть нейронную сеть в Google Colab [![Open In colab from GitHub](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evilfaust/neuronet/blob/master/Mask_R_CNN_for_IM.ipynb)
