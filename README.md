@@ -71,3 +71,6 @@
 
 1. Keras MNIST
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1faVaA652nW3DJmqNpiLLdSWNyN3sxZAK)
+
+1. перносл стиля (альтернативный блокнот)
+[![open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb#scrollTo=X8w8WLkKvzXu)
