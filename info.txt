@@ -1,1 +1,12 @@
 
+#кусок кода, чтобы сделать форму для выборы загруженных картинок
+
+#@title Specify the main content image and the style you want to use.  { display-mode: "form" }
+
+content_name = 'cloud.jpg'  # @param ['cloud.jpg','kandi002.jpg', 'levitan002.jpg', 'vangog003.jpg', 'dancing.jpg', 'kon.jpg', 'mone001.jpg', 'scream.jpg', 'emc.jpg', 'les.jpg', 'mone002.jpg', 'vangog001.jpg', 'kandi001.jpg', 'levitan001.jpg', 'picasso.jpg', 'vangog002.jpg']
+style_name = 'scream.jpg'  # @param ['cloud.jpg','kandi002.jpg', 'levitan002.jpg', 'vangog003.jpg', 'dancing.jpg', 'kon.jpg', 'mone001.jpg', 'scream.jpg', 'emc.jpg', 'les.jpg', 'mone002.jpg', 'vangog001.jpg', 'kandi001.jpg', 'levitan001.jpg', 'picasso.jpg', 'vangog002.jpg']
+
+style_img = image_loader(style_name)
+content_img = image_loader(content_name)
+
+StyleTransfer(content_img, style_img, device)
